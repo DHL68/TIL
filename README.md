@@ -10,4 +10,6 @@ TIL(Today I Learned)
 No matter the circumstances you can always improve.
 You can always start improving with yourself.
 You can always start improving today.
+
+- 익스트림 프로그래밍(2판).켄트 벡, 신시아 안드레스 지음. 김창준,정지호 옮김.인사이트
 ```
